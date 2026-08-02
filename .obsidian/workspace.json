@@ -25,10 +25,14 @@
             "id": "db54af9e13bda7e5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "AIセキュリティ/【AIセキュリティ】情報漏洩・AIエージェントの乗っ取りを防ぐ基本.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "【AIセキュリティ】情報漏洩・AIエージェントの乗っ取りを防ぐ基本"
             }
           }
         ],
@@ -177,13 +181,23 @@
               "icon": "lucide-list",
               "title": "アウトライン"
             }
+          },
+          {
+            "id": "5ef1bc89c4199a75",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,17 +207,18 @@
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "bases:新規ベースを作成": false
+      "bases:新規ベースを作成": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "db54af9e13bda7e5",
   "lastOpenFiles": [
+    "AI基本/AIは会話を重ねると\"迷子\"になる。その原因と対策を解説.md",
     "AI基本/Claude Code Web 活用メモ.md",
     "AI基本/魔法の呪文（特殊なプロンプト）.md",
     "AI基本/Iを使う時に気をつけるべき セキュリティ.md",
     "AI基本/非エンジニア向け AIコーディングエージェントのおすすめ.md",
     "AIセキュリティ/AIブラウザのセキュリティリスクについて.md",
-    "AI基本/AIは会話を重ねると\"迷子\"になる。その原因と対策を解説.md",
     "AIセキュリティ/【AIセキュリティ】情報漏洩・AIエージェントの乗っ取りを防ぐ基本.md",
     "AIセキュリティ",
     "AI基本/2026-08-02.md",

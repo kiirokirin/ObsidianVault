@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIセキュリティ/【AIセキュリティ】情報漏洩・AIエージェントの乗っ取りを防ぐ基本.md",
+                "file": "AI基本/Loop Engineering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "【AIセキュリティ】情報漏洩・AIエージェントの乗っ取りを防ぐ基本"
+              "title": "Loop Engineering"
             }
           }
         ],
@@ -213,7 +213,12 @@
   },
   "active": "5ef1bc89c4199a75",
   "lastOpenFiles": [
-    "Loop Engineering.md",
+    "web/Clippings",
+    "web/新しいフォルダー",
+    "AIセキュリティ/【AIセキュリティ】情報漏洩・AIエージェントの乗っ取りを防ぐ基本.md",
+    "web",
+    "新しいフォルダー",
+    "AI基本/Loop Engineering.md",
     "IT周り/Stripe　課金システム.md",
     "IT周り/BtoB と BtoC.md",
     "IT周り/botter（ボッター）.md",
@@ -228,7 +233,6 @@
     "AI基本/Iを使う時に気をつけるべき セキュリティ.md",
     "AI基本/非エンジニア向け AIコーディングエージェントのおすすめ.md",
     "AIセキュリティ/AIブラウザのセキュリティリスクについて.md",
-    "AIセキュリティ/【AIセキュリティ】情報漏洩・AIエージェントの乗っ取りを防ぐ基本.md",
     "AIセキュリティ",
     "AI基本/2026-08-02.md",
     "AI基本/新チャットに定期的に設計書を持って引っ越す.md",

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIセキュリティ/API経由版作って、それから無し版を試行していくのが良いのか.md",
+                "file": "IT周り/RAG（検索拡張生成）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "API経由版作って、それから無し版を試行していくのが良いのか"
+              "title": "RAG（検索拡張生成）"
             }
           }
         ],
@@ -211,11 +211,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b88f79a89d8ebb69",
+  "active": "422e2a1d431b724f",
   "lastOpenFiles": [
-    "Loop Engineering.md",
-    "AIセキュリティ/【AIセキュリティ】情報漏洩・AIエージェントの乗っ取りを防ぐ基本.md",
     "AIセキュリティ/API経由版作って、それから無し版を試行していくのが良いのか.md",
+    "IT周り/RAG（検索拡張生成）.md",
+    "AIセキュリティ/Loop Engineering.md",
+    "AIセキュリティ/【AIセキュリティ】情報漏洩・AIエージェントの乗っ取りを防ぐ基本.md",
     "IT周り/botter（ボッター）.md",
     "IT周り/AWS　アマゾン ウェブ サービス.md",
     "AIセキュリティ/AIにアプリを作らせる場合.md",

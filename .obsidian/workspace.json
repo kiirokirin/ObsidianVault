@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI基本/Loop Engineering.md",
+                "file": "AIセキュリティ/Obsidian Git コンフリクト解決 手引書.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Loop Engineering"
+              "title": "Obsidian Git コンフリクト解決 手引書"
             }
           }
         ],
@@ -239,11 +239,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c97e2cb3fd37304",
+  "active": "5ef1bc89c4199a75",
   "lastOpenFiles": [
+    "AI基本/Loop Engineering.md",
+    "AIセキュリティ/Obsidian Git コンフリクト解決 手引書.md",
     "conflict-files-obsidian-git.md",
     "AI基本/ObsidianをAIの記憶そのものにする」のではなく、AIがいつでも読みに行ける“外部の作業記憶”にする.md",
-    "AI基本/Loop Engineering.md",
     "IT周り/RAG（検索拡張生成）.md",
     "AIセキュリティ/「早く変えるべき」AIの設定.md",
     "AIセキュリティ/Loop Engineering.md",

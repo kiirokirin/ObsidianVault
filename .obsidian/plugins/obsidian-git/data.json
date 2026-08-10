@@ -6,7 +6,11 @@
   "autoSaveInterval": 5,
   "autoPushInterval": 0,
   "autoPullInterval": 0,
+<<<<<<< HEAD
   "autoPullOnBoot": true,
+=======
+  "autoPullOnBoot": false,
+>>>>>>> origin/main
   "autoCommitOnlyStaged": false,
   "disablePush": false,
   "pullBeforePush": true,
@@ -19,11 +23,19 @@
   "syncMethod": "merge",
   "mergeStrategy": "none",
   "customMessageOnAutoBackup": false,
+<<<<<<< HEAD
   "autoBackupAfterFileChange": true,
   "treeStructure": false,
   "refreshSourceControl": true,
   "basePath": "",
   "differentIntervalCommitAndPush": true,
+=======
+  "autoBackupAfterFileChange": false,
+  "treeStructure": false,
+  "refreshSourceControl": true,
+  "basePath": "",
+  "differentIntervalCommitAndPush": false,
+>>>>>>> origin/main
   "changedFilesInStatusBar": false,
   "showedMobileNotice": true,
   "refreshSourceControlTimer": 7000,
